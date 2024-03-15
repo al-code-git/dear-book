@@ -2,9 +2,10 @@
 
 ## Chapter 1: Introduction
   1. What are the four dimensions that define software architecture?
-  2. What is the difference between an architecutre decision and a design principle?
-  3. List the eight core expectations of a software architect.
-  4. What is the First Law of Software Architecture?
+     Architecture characteristics, Design principles, Structure, Architecture decisions.
+  3. What is the difference between an architecutre decision and a design principle?
+  4. List the eight core expectations of a software architect.
+  5. What is the First Law of Software Architecture?
 
 ## Chapter 2: Architectural Thinking
   1. Describe the traditional approach of architecture versus development and explain why that approach no longer works.

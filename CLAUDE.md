@@ -29,7 +29,7 @@ A personal collection of book summaries, one Markdown file per book.
    - `title`, `author`, `category`, `language` are required. `category` must match the folder name.
    - `pages`, `cover`, `date_finished`, `tags`, `rating` are optional — leave blank/empty if unknown rather than guessing.
    - `cover` is a path relative to the summary file itself (i.e. relative to the category folder), so it's just `covers/<filename>`.
-6. **Update [INDEX.md](INDEX.md)**: add a row to the table for the matching category with a relative link to the new file, and a thumbnail if a cover exists.
+6. **Update the index in [README.md](README.md)**: add a row to the table for the matching category with a relative link to the new file, and a thumbnail if a cover exists.
 
 ## Conventions recap
 

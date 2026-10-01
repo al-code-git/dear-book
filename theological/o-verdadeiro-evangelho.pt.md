@@ -47,10 +47,6 @@ rating:
 - Somos vazios porque muitos que se dizem cristãos não são convertidos de fato. Até mesmo aqueles que são convertidos, estão vazios do melhor alimento. (Jo 4.34)
 - Eis um problema: Deus é justo e sendo justo e juiz de toda a terra, Ele agirá corretamente. E, ao agir corretamente, a resposta Dele em relação a você é completamente apavorante.
 
-# Notes
-
-<!-- Chapter notes, quotes, self-assessment questions, anything else -->
-
 ## Capítulo 2 - Deus Odeia o Pecado e o Pecador
 
 - Deus está irado todos os dias (Sl 7.11)
@@ -72,10 +68,6 @@ rating:
 - O amor de Deus não impede que Ele odeie. Se você ama as crianças consequentemente odeia o aborto. Ora, então você tem o direito de odiar por causa do seu grande amor pelas crianças? O que dizer de Deus?! Você acha estranho que Deus odeie porque ele ama?
 - Entenda: Deus ama tudo o que é lindo, amável e excelente. Em outras palavras, Deus ama tudo o que é semelhante a Ele! É daí que vem o problema. Nós achamos que temos o direito de amar tudo o que escolhemos amar, mas nós pensamos que Deus deve amar tudo o que nós mesmos amamos.
 
-# Notes
-
-<!-- Chapter notes, quotes, self-assessment questions, anything else -->
-
 ## Capítulo 3 - Completamente Justos
 
 - Ser justificado: no momento que o pecador olha para Jesus, com fé salvífica, aquele pecador é declarado legalmente justo e correto diante de Deus.
@@ -87,10 +79,6 @@ rating:
 - Devíamos meditar mais na profundidade do que falamos, por exemplo, falar "Jesus morreu", isso deveria nos deixar reflexivos acerca deste acontecimento.
 - Deus, venho diante do Senhor em nome de Jesus Cristo, e eu sei que além Dele eu não tenho parte alguma contigo.
 - É tudo sobre Ele, nada é sobre você!
-
-# Notes
-
-<!-- Chapter notes, quotes, self-assessment questions, anything else -->
 
 ## Capítulo 4 - O Maior Problema das Escrituras
 
@@ -106,10 +94,6 @@ rating:
 - Ao perder o evangelho de vista os homens apelam carnalmente para as técnicas de crescimento de igreja.
 - O pecado é errado porque Deus é justo e é o juiz de toda a terra, de modo que Ele deve fazer o que é correto Ele deve ser consistente com o seu próprio caráter.
 - Mais uma vez eu pergunto, como Deus pode justificar o pecador e continuar sendo justo?
-
-# Notes
-
-<!-- Chapter notes, quotes, self-assessment questions, anything else -->
 
 ## Capítulo 5 - O verdadeiro evangelho
 
@@ -129,10 +113,6 @@ rating:
 - Em Romanos 12 Paulo nos fala para nos oferecermos como sacrifício vivo para Deus baseados na misericórdia de Deus. Ele está se referindo aos 11 capítulos anteriores. Ou seja, "visto que Deus fez tudo isso em Cristo, agora ofereçam suas vidas por Ele", de modo que, quanto mais você conhece acerca da cruz, mais você será inclinado a oferecer sua vida por Ele.
 - Por que você faz isso? "Porque Cristo derramou seu próprio sangue por minha alma!". Cristo morreu! Essas palavras deveriam partir nossos corações em mil pedaços e nos fazer adorar.
 
-# Notes
-
-<!-- Chapter notes, quotes, self-assessment questions, anything else -->
-
 ## Conclusão - Ele é o Rei da Glória
 
 - Deus reivindicou Seu Filho unigênito, ressuscitando-O dentre os mortos. Sua morte foi suficiente para pagar o preço dos pecados.
@@ -145,6 +125,8 @@ rating:
 - Talvez Cristo não volte em milhares de anos, mas certamente dentro de 25, 50 ou 60 anos você irá encontrá-lo. Você ficará diante Dele, e quando isso acontecer, será tanto maravilhoso quanto absolutamente aterrorizante.
 - Se você acha que Deus o salvou, mas não começa a mudar, não começa a crescer em graça, não começa a crescer nas coisas de Deus e não continua a andar com Ele você não foi salvo.
   A evidência da sua salvação é que você continua caminhando com Ele, porque Aquele que começou a boa obra em você certamente a termina. (Fp 1.6)
+
+---
 
 # Notes
 
